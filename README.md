@@ -9,9 +9,9 @@ Contacto:
 <br/>
  Diaz.me1984@gmail.com
  <br/>
-<a href="https://www.linkedin.com/in/in/matias-diaz-3a1350252" target="blank" >https://www.linkedin.com/in/in/matias-diaz-3a1350252</a>
+<link href="https://www.linkedin.com/in/in/matias-diaz-3a1350252" target="blank" >https://www.linkedin.com/in/in/matias-diaz-3a1350252</link>
 <br/>
-<a href="https://github.com/MatyDiaz" target="blank" >https://github.com/MatyDiaz</a>
+<link href="https://github.com/MatyDiaz" target="blank" >https://github.com/MatyDiaz</link>
 
 
 
