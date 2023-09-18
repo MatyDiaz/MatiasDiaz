@@ -9,9 +9,9 @@ Contacto:
 <br/>
  Diaz.me1984@gmail.com
  <br/>
-https://www.linkedin.com/in/in/matias-diaz-3a1350252
+<a href="https://www.linkedin.com/in/in/matias-diaz-3a1350252" target="blank" >https://www.linkedin.com/in/in/matias-diaz-3a1350252</a>
 <br/>
-https://github.com/MatyDiaz
+<a href="https://github.com/MatyDiaz" target="blank" >https://github.com/MatyDiaz</a>
 
 
 
@@ -19,13 +19,13 @@ https://github.com/MatyDiaz
 ********
 ### - 📫 Contacto:
    <p>
-      <a href="https://linkedin.com/in/matias-diaz-3a1350252">
+      <a href="https://linkedin.com/in/matias-diaz-3a1350252" target="blank">
          <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Alan Diaz LinkedIn Profile" height="30" width="30">
       </a>   
-      <a href="mailto:diaz.me1984@gmail.com">
+      <a href="mailto:diaz.me1984@gmail.com" target="blank">
          <img alt="Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30"/>
       </a>  
-       <a href ="https://wa.me/1168280914">
+       <a href ="https://wa.me/1168280914" target="blank">
  <img src= "https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" height"30" width= "30"/>
    </p>
    <p><label>diaz.me1984@gmail.com</label></p
