@@ -8,9 +8,10 @@ Soy un amante de las artes visuales y la música, creo que el arte puede nutrirn
 Contacto:
 <br/>
  Diaz.me1984@gmail.com
-<link href="https://www.linkedin.com/in/matias-diaz-3a1350252" target="_blank" >https://www.linkedin.com/in/matias-diaz-3a1350252</link>
 <br/>
-<link href="https://github.com/MatyDiaz" target="_blank" >https://github.com/MatyDiaz</link>
+<a href="https://www.linkedin.com/in/matias-diaz-3a1350252" target="_blank" >https://www.linkedin.com/in/matias-diaz-3a1350252</a>
+<br/>
+<a href="https://github.com/MatyDiaz" target="_blank" >https://github.com/MatyDiaz</a>
 
 
 
