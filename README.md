@@ -9,7 +9,7 @@ Contacto:
 <br/>
  Diaz.me1984@gmail.com
 <br/>
-<a href="https://www.linkedin.com/in/matias-diaz-3a1350252" target="_blank" >jamon</a>
+<a href="https://www.linkedin.com/in/matias-diaz-3a1350252" target="_blank" >https://www.linkedin.com/in/matias-diaz-3a1350252</a>
 <br/>
 <a href="https://github.com/MatyDiaz" target="_blank" >https://github.com/MatyDiaz</a>
 
